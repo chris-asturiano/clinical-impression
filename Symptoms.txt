@@ -1,0 +1,16 @@
+5
+1
+High Fever
+Is your body temperature 39 degrees or above? (Y/N)
+2
+Body Pain
+Is your entire body in pain? (Y/N)
+3
+Headache
+Do you have a headache? (Y/N)
+4
+Body Rashes
+Does your entire body have rashes? (Y/N)
+5
+Nausea
+Do you feel like vomiting? (Y/N)
